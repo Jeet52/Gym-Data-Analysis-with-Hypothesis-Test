@@ -1,4 +1,3 @@
-Here’s your cleaned-up README.md snippet with better formatting:
 # Fitness Tracking Analysis (STAT 382 – Project 1)
 
 **Author:** Jeet Patel  
@@ -53,7 +52,3 @@ install.packages(c("knitr", "ggplot2", "dplyr"))
 Contact
 
 For questions or collaboration, please contact Jeet Patel at JeetPatel.CompSci@gmail.com
-
-License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
